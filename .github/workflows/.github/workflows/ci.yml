@@ -33,7 +33,4 @@ jobs:
             reports/
             screenshots/
             target/surefire-reports/
-          path: |
-            reports/
-            screenshots/
-            target/surefire-reports/
+      
