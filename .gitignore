@@ -1,0 +1,8 @@
+target/
+reports/
+screenshots/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
