@@ -1,9 +1,0 @@
-com\qa\framework\pages\LoginPage.class
-com\qa\framework\utils\ScreenshotUtils.class
-com\qa\framework\config\ConfigReader.class
-com\qa\framework\driver\DriverFactory.class
-com\qa\framework\utils\ExcelUtils.class
-com\qa\framework\pages\CheckoutPage.class
-com\qa\framework\pages\BasePage.class
-com\qa\framework\pages\ProductsPage.class
-com\qa\framework\pages\CartPage.class
